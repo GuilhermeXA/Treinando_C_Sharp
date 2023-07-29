@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samsung\\OneDrive\\Documentos\\Programação\\Treinando programação em geral\\Treinando 28-07-2023_CRUD_C#_SQLServer\\SistemaDeCadastro\\SistemaDeCadastro\\SistemaDeCadastro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samsung\\OneDrive\\Documentos\\Programação\\Treinando programação em geral\\Treinando 28-07-2023_CRUD_C#_SQLServer\\SistemaDeCadastro\\SistemaDeCadastro\\SistemaDeCadastro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\OneDrive\\Documentos\\Programação\\Treinando programação em geral\\Treinando 28-07-2023_CRUD_C#_SQLServer\\SistemaDeCadastro\\SistemaDeCadastro\\SistemaDeCadastro.csproj",
+        "projectName": "SistemaDeCadastro",
+        "projectPath": "C:\\Users\\Samsung\\OneDrive\\Documentos\\Programação\\Treinando programação em geral\\Treinando 28-07-2023_CRUD_C#_SQLServer\\SistemaDeCadastro\\SistemaDeCadastro\\SistemaDeCadastro.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\OneDrive\\Documentos\\Programação\\Treinando programação em geral\\Treinando 28-07-2023_CRUD_C#_SQLServer\\SistemaDeCadastro\\SistemaDeCadastro\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
