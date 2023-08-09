@@ -1,0 +1,17 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 08-08-2023_Calculadora com windowsform\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
