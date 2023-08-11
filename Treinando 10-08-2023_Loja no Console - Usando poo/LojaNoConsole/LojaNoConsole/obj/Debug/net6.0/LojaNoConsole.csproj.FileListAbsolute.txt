@@ -1,0 +1,30 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\refint\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 09-08-2023_Loja no Console\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\ref\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\bin\Debug\net6.0\LojaNoConsole.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\refint\LojaNoConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\LojaNoConsole.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 10-08-2023_Loja no Console - Usando poo\LojaNoConsole\LojaNoConsole\obj\Debug\net6.0\ref\LojaNoConsole.dll
