@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Site de Teste</title>
+    <style>
+        button {
+            width: 100px;
+            height: 50px;
+        }
+        div {
+            width: 500px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Site de Teste</h1>
+    <a asp-area="" asp-controller="Home" asp-action="Privacy">Contato</a>
+    <a asp-area="" asp-controller="Home" asp-action="Texto">Texto</a>
+    <div>
+        <p>Site desenvolvido utilizando asp .net core mvc</p>
+        <p>Está ferramente possibilita criar projetos com padrão MVC além da possibilidade de utilizar a linguagem c#</p>
+        <button onclick="msg();">Executar Comando</button>
+        <script>
+            function msg() {
+                alert('Você está na página Inicial de Menu do site');
+            }
+        </script>
+    </div>
+</body>
+</html>
+

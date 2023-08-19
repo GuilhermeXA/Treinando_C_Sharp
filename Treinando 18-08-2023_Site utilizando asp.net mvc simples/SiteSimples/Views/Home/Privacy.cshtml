@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Contato";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contatos</title>
+</head>
+<body>
+    <h1>Contatos</h1>
+    <p>Entre em contato conosco para mais informações.</p>
+    <ol>
+        <li>Telefone: (11) 12345-1234</li>
+        <li>Celular: (11) 54321-4321</li>
+        <li>E-mail: teste@email.com</li>
+    </ol>
+    <a asp-area="" asp-controller="Home" asp-action="Index">Menu</a>
+    <a asp-area="" asp-controller="Home" asp-action="Texto">Texto</a>
+    <button onclick="msg2();">Executar Comando</button>
+    <script>
+        function msg2() {
+            alert('Você está na página de contatos');
+        }
+    </script>
+</body>
+</html>
