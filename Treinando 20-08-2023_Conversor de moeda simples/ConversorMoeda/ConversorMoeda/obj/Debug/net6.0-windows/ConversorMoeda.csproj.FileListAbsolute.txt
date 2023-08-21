@@ -1,0 +1,17 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\bin\Debug\net6.0-windows\ConversorMoeda.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\bin\Debug\net6.0-windows\ConversorMoeda.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\bin\Debug\net6.0-windows\ConversorMoeda.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\bin\Debug\net6.0-windows\ConversorMoeda.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\bin\Debug\net6.0-windows\ConversorMoeda.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.Form1.resources
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.csproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\refint\ConversorMoeda.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ConversorMoeda.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 20-08-2023_Conversor de moeda simples\ConversorMoeda\ConversorMoeda\obj\Debug\net6.0-windows\ref\ConversorMoeda.dll
