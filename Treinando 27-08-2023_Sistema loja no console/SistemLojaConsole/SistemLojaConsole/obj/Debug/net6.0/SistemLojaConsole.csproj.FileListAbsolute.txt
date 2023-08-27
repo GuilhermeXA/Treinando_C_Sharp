@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\bin\Debug\net6.0\SistemLojaConsole.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\bin\Debug\net6.0\SistemLojaConsole.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\bin\Debug\net6.0\SistemLojaConsole.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\bin\Debug\net6.0\SistemLojaConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\bin\Debug\net6.0\SistemLojaConsole.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\refint\SistemLojaConsole.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\SistemLojaConsole.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 27-08-2023_Sistema loja no console\SistemLojaConsole\SistemLojaConsole\obj\Debug\net6.0\ref\SistemLojaConsole.dll
