@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\bin\Debug\net6.0\TreinoPooPessoas.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\bin\Debug\net6.0\TreinoPooPessoas.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\bin\Debug\net6.0\TreinoPooPessoas.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\bin\Debug\net6.0\TreinoPooPessoas.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\bin\Debug\net6.0\TreinoPooPessoas.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\refint\TreinoPooPessoas.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\TreinoPooPessoas.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 29-08-2023_Treinando_Poo_Classe Pessoas\TreinoPooPessoas\TreinoPooPessoas\obj\Debug\net6.0\ref\TreinoPooPessoas.dll
