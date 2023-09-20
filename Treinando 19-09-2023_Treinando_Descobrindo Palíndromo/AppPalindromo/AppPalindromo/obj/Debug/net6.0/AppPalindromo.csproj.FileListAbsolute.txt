@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\bin\Debug\net6.0\AppPalindromo.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\bin\Debug\net6.0\AppPalindromo.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\bin\Debug\net6.0\AppPalindromo.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\bin\Debug\net6.0\AppPalindromo.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\bin\Debug\net6.0\AppPalindromo.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\refint\AppPalindromo.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\AppPalindromo.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Projetos em C#\Treinando 19-09-2023_Treinando_Descobrindo Palíndromo\AppPalindromo\AppPalindromo\obj\Debug\net6.0\ref\AppPalindromo.dll
