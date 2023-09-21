@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinandoCSharp_Listas", "TreinandoCSharp_Listas\TreinandoCSharp_Listas.csproj", "{741C1F44-7D14-40E6-B0DF-58D45015EECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741C1F44-7D14-40E6-B0DF-58D45015EECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741C1F44-7D14-40E6-B0DF-58D45015EECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741C1F44-7D14-40E6-B0DF-58D45015EECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741C1F44-7D14-40E6-B0DF-58D45015EECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5B63FD-3D25-4C64-96B9-C1687B778966}
+	EndGlobalSection
+EndGlobal
