@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\refint\CalculadoraSimples.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 19-10-2023_Calculadora simples no console\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0\ref\CalculadoraSimples.dll
