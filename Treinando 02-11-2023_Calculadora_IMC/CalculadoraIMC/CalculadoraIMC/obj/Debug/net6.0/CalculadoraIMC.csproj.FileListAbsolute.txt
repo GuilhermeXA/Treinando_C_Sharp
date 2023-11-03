@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\refint\CalculadoraIMC.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 02-11-2023_Calculadora_IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
