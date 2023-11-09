@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\bin\Debug\net6.0\SistemaCalcIMCnoTXT.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\bin\Debug\net6.0\SistemaCalcIMCnoTXT.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\bin\Debug\net6.0\SistemaCalcIMCnoTXT.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\bin\Debug\net6.0\SistemaCalcIMCnoTXT.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\bin\Debug\net6.0\SistemaCalcIMCnoTXT.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\refint\SistemaCalcIMCnoTXT.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\SistemaCalcIMCnoTXT.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Calculo_IMC_TXT\SistemaCalcIMCnoTXT\SistemaCalcIMCnoTXT\obj\Debug\net6.0\ref\SistemaCalcIMCnoTXT.dll

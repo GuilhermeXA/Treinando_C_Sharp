@@ -1,0 +1,4 @@
+Fulano de Tal, 24 anos, altura: 1,83m, peso: 94kg, IMC: 28,068918152229088, Data: 08/11/2023
+Fulano, 24 anos, altura: 1,83m, peso: 94kg, IMC: 28,068918152229088, Situação: Sobrepeso, Data: 08/11/2023
+Fulano de tal, 24 anos, altura: 1,83m, peso: 94kg, IMC: 28,07, Situação: Sobrepeso, Data: 08/11/2023
+Fulano de Tal, 24 anos, altura: 1,83m, peso: 94kg, IMC: 28,07, Situação: Sobrepeso, Data: 08/11/2023
