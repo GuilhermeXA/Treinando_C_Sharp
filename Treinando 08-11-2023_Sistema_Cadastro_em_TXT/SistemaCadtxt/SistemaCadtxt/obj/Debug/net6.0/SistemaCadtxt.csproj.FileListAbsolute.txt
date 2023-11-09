@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\bin\Debug\net6.0\SistemaCadtxt.exe
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\bin\Debug\net6.0\SistemaCadtxt.deps.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\bin\Debug\net6.0\SistemaCadtxt.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\bin\Debug\net6.0\SistemaCadtxt.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\bin\Debug\net6.0\SistemaCadtxt.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\refint\SistemaCadtxt.dll
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.pdb
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\SistemaCadtxt.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\Programação\C#\Treinando C#\Treinando 08-11-2023_Sistema_Cadastro_em_TXT\SistemaCadtxt\SistemaCadtxt\obj\Debug\net6.0\ref\SistemaCadtxt.dll
